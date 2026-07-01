@@ -6,7 +6,7 @@ import Loader from '../../components/common/Loader';
 import { toast } from 'react-toastify';
 import {
   FiStar, FiUsers, FiClock, FiBook, FiCheck, FiPlay,
-  FiLock, FiHeart, FiShare2, FiChevronDown, FiChevronUp,
+  FiLock, FiChevronDown, FiChevronUp,
   FiAward, FiGlobe,
 } from 'react-icons/fi';
 
@@ -35,7 +35,7 @@ function initRazorpay(orderData, onSuccess) {
 export default function CourseDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
-  const { user, isAuthenticated, isEnrolled, isStudent } = useAuth();
+  const { isAuthenticated, isEnrolled } = useAuth();
 
   const [course, setCourse]   = useState(null);
   const [loading, setLoading] = useState(true);
