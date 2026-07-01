@@ -23,7 +23,7 @@
 | 🎬 **Course Detail** — Curriculum, reviews, Razorpay checkout | ![Detail](docs/screenshots/course_detail.png) |
 | 🎥 **Learn Page** — Video player + AI quiz sidebar | ![Learn](docs/screenshots/learn.png) |
 | 👨‍🏫 **Instructor Dashboard** — Course management, analytics & revenue tracking | ![Instructor](docs/screenshots/instructor_dashboard.png)<br><br>![Revenue](docs/screenshots/revenue_dashboard.png) |
-| 💳 **Secure Checkout** — Razorpay Payment Integration | ![Checkout](docs/screenshots/razorpay_checkout.png) |
+| 💳 **Secure Checkout** — Razorpay payment gateway, coupon support & payment confirmation | ![Checkout](docs/screenshots/razorpay_checkout.png)<br><br>![Success](docs/screenshots/payment_success.png) |
 | 🛡️ **Admin Panel** — Analytics, user & course moderation | ![Admin](docs/screenshots/admin.png) |
 | 📖 **Swagger API Docs** — Full interactive documentation | ![Swagger](docs/screenshots/swagger.png) |
 
