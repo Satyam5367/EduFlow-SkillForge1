@@ -331,4 +331,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-<p align="center">Built with ❤️ using the MERN Stack | EduFlow &copy; 2025 Satyam Kumar</p>
+<p align="center">Built with ❤️ using the MERN Stack | EduFlow &copy; 2026 Satyam Kumar</p>
