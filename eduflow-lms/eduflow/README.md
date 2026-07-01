@@ -2,7 +2,7 @@
 
 > A production-grade LMS platform built with the MERN stack. Students learn, instructors teach, admins manage — all in one powerful platform.
 
-[![CI/CD](https://github.com/Satyam5367/EduFlow-SkillForge1/actions/workflows/ci.yml/badge.svg)](https://github.com/Satyam5367/EduFlow-SkillForge1/actions)
+[![CI/CD](https://github.com/Satyam5367/EduFlow-SkillForge1/actions/workflows/ci.yml/badge.svg)](https://github.com/Satyam5367/EduFlow-SkillForge1/actions/workflows/ci.yml)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb)
