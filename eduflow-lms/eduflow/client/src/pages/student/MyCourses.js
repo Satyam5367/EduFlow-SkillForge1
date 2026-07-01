@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { userAPI } from '../../services/api.service';
 import Loader from '../../components/common/Loader';
-import { FiPlay, FiClock } from 'react-icons/fi';
+import { FiPlay } from 'react-icons/fi';
 
 export default function MyCourses() {
   const [enrollments, setEnrollments] = useState([]);
