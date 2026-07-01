@@ -326,8 +326,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 **Satyam Kumar** — B.Tech CSE
 
-[![GitHub](https://img.shields.io/badge/GitHub-satyamkumar-181717?style=flat-square&logo=github)](https://github.com/satyamkumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyamkumar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/satyamkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-satyamkumar-181717?style=flat-square&logo=github)](https://github.com/Satyam5367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyamkumar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyam-kumar-894344280)
 
 ---
 
