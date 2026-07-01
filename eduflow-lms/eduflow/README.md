@@ -23,7 +23,7 @@
 | 🎬 **Course Detail** — Curriculum, reviews, Razorpay checkout | ![Detail](docs/screenshots/course_detail.png) |
 ### Curriculum & Checkout
 
-![Course Detail 2](docs/screenshots/course_detail_2.png)
+![Course Detail 2](docs/screenshots/course_detail_2.png)|
 | 🎥 **Learn Page** — Video player + AI quiz sidebar | ![Learn](docs/screenshots/learn.png) |
 | 👨‍🏫 **Instructor Dashboard** — Revenue charts, course management | ![Instructor](docs/screenshots/instructor_dashboard.png) |
 | 🛡️ **Admin Panel** — Analytics, user & course moderation | ![Admin](docs/screenshots/admin.png) |
