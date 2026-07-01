@@ -22,7 +22,7 @@
 | 📚 **Course Catalog** — Filters, search, pagination | ![Courses](courses_all.png) |
 | 🎬 **Course Detail** — Curriculum, reviews, Razorpay checkout | ![Detail](docs/screenshots/course-detail.png) |
 | 🎥 **Learn Page** — Video player + AI quiz sidebar | ![Learn](docs/screenshots/learn.png) |
-| 👨‍🏫 **Instructor Dashboard** — Revenue charts, course management | ![Instructor](docs/screenshots/instructor.png) |
+| 👨‍🏫 **Instructor Dashboard** — Revenue charts, course management | ![Instructor](docs/screenshots/instructor_dashboard.png) |
 | 🛡️ **Admin Panel** — Analytics, user & course moderation | ![Admin](docs/screenshots/admin.png) |
 | 📖 **Swagger API Docs** — Full interactive documentation | ![Swagger](docs/screenshots/swagger.png) |
 
